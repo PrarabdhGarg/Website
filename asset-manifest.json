@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.191f34b4.chunk.css",
+    "main.js": "/home/static/js/main.d5da3fb9.chunk.js",
+    "main.js.map": "/home/static/js/main.d5da3fb9.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.af013f77.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.af013f77.js.map",
+    "static/js/2.a3cb4f06.chunk.js": "/home/static/js/2.a3cb4f06.chunk.js",
+    "static/js/2.a3cb4f06.chunk.js.map": "/home/static/js/2.a3cb4f06.chunk.js.map",
+    "static/css/3.48a93ee6.chunk.css": "/home/static/css/3.48a93ee6.chunk.css",
+    "static/js/3.94b05a48.chunk.js": "/home/static/js/3.94b05a48.chunk.js",
+    "static/js/3.94b05a48.chunk.js.map": "/home/static/js/3.94b05a48.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/home/static/css/4.01c87591.chunk.css",
+    "static/js/4.d0e6d60f.chunk.js": "/home/static/js/4.d0e6d60f.chunk.js",
+    "static/js/4.d0e6d60f.chunk.js.map": "/home/static/js/4.d0e6d60f.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.057ae6ecf3c50587d6ab3876344969b5.js": "/home/precache-manifest.057ae6ecf3c50587d6ab3876344969b5.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/3.48a93ee6.chunk.css.map": "/home/static/css/3.48a93ee6.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/home/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.191f34b4.chunk.css.map": "/home/static/css/main.191f34b4.chunk.css.map",
+    "static/media/index.css": "/home/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/bits.png": "/home/static/media/bits.7e0d2e1a.png",
+    "static/media/contactMail.webp": "/home/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/home/static/media/developerActivity.59389695.svg",
+    "static/media/ds.jpg": "/home/static/media/ds.9d686e9a.jpg",
+    "static/media/epirisk.jpg": "/home/static/media/epirisk.bb9997fd.jpg",
+    "static/media/glf.jpg": "/home/static/media/glf.e6a65ed7.jpg",
+    "static/media/hbcse.png": "/home/static/media/hbcse.58bfe003.png",
+    "static/media/logo.svg": "/home/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/home/static/media/manOnTable.52be3144.svg",
+    "static/media/oasis.webp": "/home/static/media/oasis.f6077665.webp",
+    "static/media/skill.svg": "/home/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/home/static/media/talksCardBack.de3da806.svg",
+    "static/media/voice.png": "/home/static/media/voice.869a961e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af013f77.js",
+    "static/js/2.a3cb4f06.chunk.js",
+    "static/css/main.191f34b4.chunk.css",
+    "static/js/main.d5da3fb9.chunk.js"
+  ]
+}
