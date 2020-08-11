@@ -12,8 +12,7 @@ const greeting = {
   subTitle: emoji(`I am a Computer Science Student at Birla Institute of Technology and Sciences, Pilani (BITS-Pilani).
   I am fond of Mobile App Development (Native Android as well as Cross-platform). Currently, I am also exploring the fieds of Software Defined Networks, Distrbuted Systems and Data Science.
   `),
-  // TODO: Change this
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1_DuyN6O_omJ9z75WMK8fKLV6v7RWGEnp/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -233,7 +232,11 @@ const talkSection = {
   subtitle: "",
 
   talks: [
-    
+    // {
+      // title: "Ethical Hacking and Penetration Testing",
+      // subtitle: "Organized by Cisco",
+      // image: "/src/assets/images/Workshop.jpg"
+    // }
   ]
 };
 
